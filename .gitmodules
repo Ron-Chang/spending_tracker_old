@@ -1,0 +1,6 @@
+[submodule "src/common"]
+	path = src/common
+	url = git@github.com:Ron-Chang/common.git
+[submodule "src/scraping_tools"]
+	path = src/scraping_tools
+	url = git@github.com:Ron-Chang/scraping_tools.git

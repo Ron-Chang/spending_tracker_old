@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+.idea/
+backup/
+db/
+data/
+log/
+test.*
+test/
+dev.env
